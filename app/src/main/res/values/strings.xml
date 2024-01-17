@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">My Project</string>
+
+    <bool name="is_landscape">true</bool>
+
+    <bool name="enable_banner">true</bool>
+    <bool name="banner_at_bottom">true</bool>
+    <bool name="banner_not_overlap">true</bool>
+    <string name="id_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+    <bool name="enable_inter">true</bool>
+    <string name="id_inter">ca-app-pub-3940256099942544/1033173712</string>
+
+    <bool name="enable_gdpr">true</bool>
+    <string name="id_publisher">pub-3940256099942544</string>
+    <string name="privacy_url">https://github.com/RianFauza</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_email">fauzadinata07@gmail.com</string>
+
+    <string name="share_description">Try this new game</string>
+
+    <bool name="full_screen">true</bool>
+    <string name="image_content">image</string>
+
+    <string name="sure_quit">Are you sure you want to quit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+
+    <bool name="need_connection">false</bool>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="txtRetry">Retry</string>
+
+    <integer name="splash_delay">2000</integer>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="you_do_not_have_an_account">You do not have an account ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="profil">Profil</string>
+    <string name="search">Search</string>
+    <string name="flixflex">FlixFlex</string>
+    <string name="top_rated">Top rated</string>
+    <string name="no_content_found">No content found</string>
+    <string name="no_internet_available">No internet available</string>
+    <string name="recommandation">Recommandation</string>
+    <string name="bullet">•</string>
+    <string name="cast">Cast</string>
+    <string name="similar_movies">Similar movies</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="vimeo_is_not_installed">Vimeo is not installed</string>
+    <string name="oops_an_error_has_occurred">Oops, An error has occurred</string>
+    <string name="flixflexsharedpref">FlixFlexSharedPref</string>
+    <string name="similar_series">Similar series</string>
+    <string name="movies_found">Movies found</string>
+    <string name="series_found">Series found</string>
+    <string name="please_wait">Please wait</string>
+    <string name="search_for_your_movies_and_series">Search for your movies and series</string>
+    <string name="change_your_email">Change your Email</string>
+    <string name="change_your_password">Change your password</string>
+    <string name="log_out">Log out</string>
+    <string name="welcome_to_flixflex">Welcome to FlixFlex</string>
+    <string name="current_email">Current email</string>
+    <string name="new_email">New Email</string>
+    <string name="update">Update</string>
+    <string name="new_password">New password</string>
+    <string name="current_password">Current password</string>
+    <string name="wrong_email_or_password">Wrong Email or Password</string>
+    <string name="empty_password">Empty password</string>
+    <string name="empty_email">Empty email</string>
+    <string name="login_success">login success</string>
+    <string name="email_not_valid">Email not valid</string>
+    <string name="password_must_contains">Password must contains at least 8 Caracters and digits</string>
+    <string name="season_s">" Season(s) "</string>
+    <string name="episodes">" Episodes "</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Hallo">Hallo apa kabarnya</string>
+    <string name="apakabar">bagaimana kabarnya</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="toast_button_toast">Hello Toast!</string>
+    <string name="button_label_hitung">Hitung</string>
+    <string name="Hitung_initianl_value">1</string>
+    <string name="toast_pesan">Hebat Bro</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!!</string>
+
+    <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked,
+    triple-locked, police-alarmed door — are something like 400 hours of unreleased
+    Beatles recordings, starting from June 2, 1962 and ending with the very last tracks
+    recorded for the Let It Be album. The best of the best were released by Apple Records
+    in the form of the 3-volume Anthology series. For more information, see the Beatles
+    Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle
+    song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon
+    Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first
+    albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+
+    Highlights include: \n\n
+
+        Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did,
+    with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single
+    session that yielded four songs (the other three featured Tony Sheridan with the
+    Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon
+    and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar,
+    George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays
+    drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during
+    the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-
+    section clubs. \n\n
+
+        My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie”
+    (the first-ever single with Beatles playing), as the backing band for English singer
+    Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool
+    brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record
+    store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet”
+    (his first-ever released vocal). \n\n
+
+        Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the
+    Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit
+    with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by
+    now replaced Pete Best on drums. The high falsetto is George, who also plays a
+    hesitant lead guitar. This is from their first audition for Decca Records in London on Jan
+    1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a
+    similar arrangement, Pigpen doing the Paul vocals. A live version is available on
+    outtake records featuring the Dead joined by the Beach Boys! \n\n
+
+        Love Me Do — An early version of the song, played a bit slower and with more of
+    a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John
+    played harmonica — a first for the group. Pete Best played drums on this version. \n\n
+
+        She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales
+    Theatre by Leicester Square in London, attended by the Queen. “Till There Was You”
+    (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in
+    1961. Before playing it, Paul said it was recorded by his favorite American group,
+    “Sophie Tucker” (which got some laughs). At the end, John tells the people in the
+    cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then
+    announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first
+    recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen
+    smiling at John’s remark. \n\n
+
+        Leave My Kitten Alone — One of the lost Beatle songs recorded during the
+    “Beatles For Sale” sessions but never released. This song, written by Little Willie John,
+    Titus Turner, and James McDougal, was a 1959 hit for Little Willie John and covered by
+    Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog”
+    may have influenced John’s “Hey Bulldog” (Yellow Submarine album),
+    which is a similar rocker. \n\n
+
+        One After 909 — A song recorded for the ¨C11C album was actually worked on
+    way back in the beginning, six years earlier. This take shows how they did it much more
+    slowly, with an feel to it.
+
+        Posted onOctober 7, 2023
+        Leave a commenton PROJECT SCROLLING TEXT
+        Analisis Data dengan Bahasa python
+    </string>
+
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="string_button_label_count">String/button_label_count</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">1</string>
+    <string name="toast_message">Bilangan Fibonacci</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="film_comedy">film_comedy</string>
+    <string name="tom_and_jerry">tom_and_jerry</string>
+    <string name="tom">tom</string>
+    <string name="play_video">Play Video</string>
+    <string name="kumpulan_project_semester_3">Kumpulan project Semester 3</string>
+    <string name="blank">Blank</string>
+    <string name="u">kijiuhy7tftrtrfrtfyguyhyhyttrrdededwswswswdrfrtgtgyhyhujuiukijuhtfrdwswswawedrfgthyujuj</string>
+</resources>

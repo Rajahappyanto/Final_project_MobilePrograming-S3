@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/fragment_tab1.xml -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp">
+
+    <!-- Gambar Film -->
+
+    <!-- Judul Film -->
+    <ImageView
+        android:id="@+id/imageFilm"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:contentDescription="@string/film_comedy"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_1" />
+    <Button
+        android:id="@+id/btnPlayVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="290dp"
+        android:onClick="playVideo"
+        android:text="@string/play_video" />
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageFilm"
+        android:layout_marginTop="16dp"
+        android:text="@string/tom_and_jerry"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"/>
+
+
+    <!-- Sinopsis Film -->
+    <TextView
+        android:id="@+id/textSynopsis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textTitle"
+        android:layout_marginTop="8dp"
+        android:text="@string/u"
+        android:textColor="#546E7A"
+        android:textSize="14sp"
+        tools:ignore="VisualLintLongText" />
+
+
+
+</RelativeLayout>

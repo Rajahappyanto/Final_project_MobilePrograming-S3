@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Gambar Film -->
+    <ImageView
+        android:id="@+id/imageFilm"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/titanic"
+        android:contentDescription="romance_film" />
+
+    <!-- Judul Film -->
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageFilm"
+        android:layout_marginTop="16dp"
+        android:text="titanic_st"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"/>
+
+    <!-- Sinopsis Film -->
+    <TextView
+        android:id="@+id/textSynopsis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textTitle"
+        android:layout_marginTop="8dp"
+        android:text="sinopsis_titanic"
+        android:textColor="#546E7A"
+        android:textSize="14sp"
+        tools:ignore="VisualLintLongText" />
+
+</RelativeLayout>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data>
+
+	<settings>
+
+		<assets>
+
+			<packages default="assets" audio="assets.audio" />
+
+		</assets>
+
+		<font name="roboto-webfont" />
+
+		<asciiArt></asciiArt>
+
+		<urls>
+
+			<website>https://institutjacob.com</website>
+
+			<author>Gradle Code</author>
+
+		</urls>
+
+		<audioHoldDelay>5000</audioHoldDelay>
+
+		<disableEyeCandy>false</disableEyeCandy>
+
+		<disableDeviceMotion>false</disableDeviceMotion>
+
+		<orientationApproximation>false</orientationApproximation>
+
+		<startingLevel>0</startingLevel>
+
+	</settings>
+
+	<gui>
+
+		<audioHoldMessage>PRESS TO CONTINUE</audioHoldMessage>
+
+		<buttons>
+
+			<website>More games</website>
+
+			<instructions>How to play</instructions>
+
+			<play>Play now</play>
+
+			<selectLevel>Start race</selectLevel>
+
+			<replay>Continue career</replay>
+
+			<continue>Continue game</continue>
+
+			<finished>Results</finished>
+
+			<reset>Reset game</reset>
+
+			<buy>Buy</buy>
+
+			<countdown>Auto start</countdown>
+
+			<unpause>Resume</unpause>
+
+			<audioOn>Sound On</audioOn>
+
+			<audioOff>Sound Off</audioOff>
+
+			<back>Quit game</back>
+
+			<testMode>
+
+				<finish>Finish</finish>
+
+				<skip>Skip</skip>
+
+			</testMode>
+
+		</buttons>
+
+		<locations>
+
+			<a alt="Dunes" difficulty="Easy">Desert</a>
+
+			<b alt="Trail" difficulty="Medium">Forest</b>
+
+			<c alt="Tundra" difficulty="Hard">Mountain</c>
+
+			<d alt="Tour" difficulty="Expert">Lakeside</d>
+
+		</locations>
+
+		<upgrades>
+
+			<speed>Top speed</speed>
+
+			<steering>Grip</steering>
+
+			<acceleration>Acceleration</acceleration>
+
+			<boost>Boost</boost>
+
+		</upgrades>
+
+		<rank>
+
+			<good>Winner!</good>
+
+			<ok  >Podium finish!</ok>
+
+			<poor>Race completed!</poor>
+
+		</rank>
+
+		<scenes>
+
+			<instructions>
+
+				<title>How to play</title>
+
+				<message><![CDATA[Compete across the world as you race in the Car Driver.<br/><br/>Dodge opponents, boost around twisting corners, collect coins and upgrade your car for the next race.<br/><br/>Are you the best Car Driver ?]]></message>
+
+			</instructions>
+
+			<selectLevel>
+
+				<series>Championship __X__, </series>
+
+				<title>Race __X__ of 4</title>
+
+			</selectLevel>
+
+			<interstitial>
+
+				<total>Total points</total>
+
+				<personalBest>Personal best</personalBest>
+
+			</interstitial>
+
+			<results>
+
+				<title>Race __X__ of 4 complete</title>
+
+				<table>
+
+					<location>Race</location>
+
+					<position>Position</position>
+
+					<points>Points</points>
+
+					<total>Total points</total>
+
+					<personalBest>Personal best</personalBest>
+
+				</table>
+
+				<message>You finished the race in __SCORE__ position and scored __POINTS__ points.</message>
+
+			</results>
+
+			<shop>
+
+				<title>Upgrade your car</title>
+
+				<maxed>Maxed</maxed>
+
+				<insufficient>Earn Funds</insufficient>
+
+			</shop>
+
+		</scenes>
+
+	</gui>
+
+</data>

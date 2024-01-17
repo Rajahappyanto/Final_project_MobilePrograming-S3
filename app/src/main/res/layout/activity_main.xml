@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:oop="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Aqua"
+        android:text="WELCOME BABY "
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:paddingStart="10dp"
+        tools:ignore="RtlSymmetry" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Aqua"
+        oop:tabTextColor="@color/DarkGreen">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/comedy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="comedy"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/horor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="romance"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="action"/>
+
+    </com.google.android.material.tabs.TabLayout>
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+
+
+</LinearLayout>
