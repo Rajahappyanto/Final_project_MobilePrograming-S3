@@ -29,10 +29,10 @@ Mata Kuliah     : Pemrograman Mobile (UAS)
 ```
 code and design
 ```
-![Screenshot (133)](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/83eddca3-bbe3-4c1b-8163-7e815c8eefa5)
+![img](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/83eddca3-bbe3-4c1b-8163-7e815c8eefa5)
 
 ### Output
-![Screenshot_2024-01-17-13-20-05-644_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/8cdce420-2ee7-4938-94a9-a3c105ee34fc)
+![img](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/8cdce420-2ee7-4938-94a9-a3c105ee34fc)
 
 ## 2. Fibonacci
 ```
