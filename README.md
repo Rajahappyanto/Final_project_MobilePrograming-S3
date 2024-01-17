@@ -25,7 +25,7 @@ https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520
 
 ## Laporan Project (PDF)
 
-[laporan.pdf](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/blob/main/laporan%20mobile.pdf)
+[laporan mobile.pdf](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/files/13964414/laporan.mobile.pdf)
 
 ## Tampilan Aplikasi Dahbord
 <img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db" width="300" height="650" alt="dasbord">
