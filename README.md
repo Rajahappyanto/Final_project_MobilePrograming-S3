@@ -1,5 +1,7 @@
 # Final_project_MobilePrograming-S3
 
+![Screenshot 2024-01-17 210536](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/15c119a6-f64f-4da2-8c48-b5e4ec3020b7)
+
 ## Project UAS
 ```
 Nama            : Raja Happyanto
@@ -22,6 +24,8 @@ Mata Kuliah     : Pemrograman Mobile (UAS)
 https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/67a08865-1097-459b-92c2-c95766b7f57d
 
 ## Laporan Project (PDF)
+
+https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/blob/main/laporan%20mobile.pdf
 
 ## Tampilan Aplikasi Dahbord
 <img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db" width="300" height="650" alt="dasbord">
