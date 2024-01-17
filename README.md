@@ -23,8 +23,8 @@ Mata Kuliah     : Pemrograman Mobile (UAS)
 
 ## Tampilan Aplikasi Dahbord
 <img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db" width="300" height="650" alt="dasbord">
-![Uploading Screenshot (130).png…]()
 
+![Screenshot (130)](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/218a4b91-c809-40d3-a4c4-e052773ae6be)
 
 ## 1. Splash
 ```
