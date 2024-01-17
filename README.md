@@ -17,7 +17,9 @@ Mata Kuliah     : Pemrograman Mobile (UAS)
 - Maps
 - Fragment
 - Launcer spash
-## Demo Video Aplikasi, di jalankan pada Peramgkat Xiaomi
+## Demo Video Aplikasi, di jalankan pada Perangkat Xiaomi
+
+https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/67a08865-1097-459b-92c2-c95766b7f57d
 
 ## Laporan Project (PDF)
 
