@@ -22,7 +22,7 @@ Mata Kuliah     : Pemrograman Mobile (UAS)
 ## Laporan Project (PDF)
 
 ## Tampilan Aplikasi Dahbord
-![Screenshot_2024-01-17-13-20-12-230_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db)
+![Screenshot_2024-01-17-13-20-12-230_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db =300x200)
 
 
 ## 1. Splash
