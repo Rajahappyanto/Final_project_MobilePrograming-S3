@@ -22,9 +22,8 @@ Mata Kuliah     : Pemrograman Mobile (UAS)
 ## Laporan Project (PDF)
 
 ## Tampilan Aplikasi Dahbord
-<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db" width="300" height="700" alt="Image Description">
-
-![Screenshot_2024-01-17-13-20-12-230_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db =300x200)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/90754789-6b35-4679-aee0-4de90740e6db" width="300" height="650" alt="dasbord">
+![Uploading Screenshot (130).png…]()
 
 
 ## 1. Splash
@@ -34,7 +33,7 @@ code and design
 ![img](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/83eddca3-bbe3-4c1b-8163-7e815c8eefa5)
 
 ### Output
-![img](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/8cdce420-2ee7-4938-94a9-a3c105ee34fc)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/8cdce420-2ee7-4938-94a9-a3c105ee34fc" width="300" height="650" alt="Splah">
 
 ## 2. Fibonacci
 ```
@@ -43,7 +42,7 @@ code and design
 ![Screenshot (136)](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/440fb2d6-8329-4f90-92ad-45d0691fcd61)
 
 ### Output
-![Screenshot_2024-01-17-13-22-10-411_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/0361ed09-3dd8-4cae-9f1f-c3f9e1d3e786)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/0361ed09-3dd8-4cae-9f1f-c3f9e1d3e786" width="300" height="650" alt="Fibo">
 
 ## 3. Scroll Sianida
 ```
@@ -52,7 +51,7 @@ code and design
 ![Screenshot (134)](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/62773a1b-13c5-44ee-bbaa-615edf6cf0c0)
 
 ### Output
-![Screenshot_2024-01-17-13-21-57-761_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/a93b5311-eaf3-46f7-bddd-66180af51240)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/a93b5311-eaf3-46f7-bddd-66180af51240" width="300" height="650" alt="sianida">
 
 ## 4. Alarm
 ```
@@ -65,7 +64,7 @@ code
         });
 ```
 ### Output
-![Screenshot_2024-01-17-13-21-24-603_com android deskclock](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/4ffd6fc9-f9bd-48d8-81f8-8dbd9667c54b)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/4ffd6fc9-f9bd-48d8-81f8-8dbd9667c54b" width="300" height="650" alt="alrm">
 
 ## 5. Chat
 ```
@@ -74,7 +73,7 @@ code and design
 ![Screenshot (135)](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/787e74e4-a6b6-4704-b680-2329349bcd0b)
 
 ### Output
-![Screenshot_2024-01-17-13-20-57-909_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/c0bb1ec4-3f96-4243-836f-a8ee8ac67ce4)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/c0bb1ec4-3f96-4243-836f-a8ee8ac67ce4" width="300" height="650" alt="chat">
 
 ## 6. Maps
 ```
@@ -87,8 +86,8 @@ code
         });
 ```
 ### Output
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/b19e97ac-e3b8-44f3-a4d5-9b28019857db" width="300" height="650" alt="Maps">
 
-![maps](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/b19e97ac-e3b8-44f3-a4d5-9b28019857db)
 
 ## 7. Telephon and kalender
 ```
@@ -109,10 +108,10 @@ buttonTelpon.setOnClickListener(view -> {
         });
 ```
 ### Output
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/81af72c7-429d-4890-9471-6e24253994f4" width="300" height="650" alt="klen">
 
-![Screenshot_2024-01-17-13-21-17-941_com xiaomi calendar](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/81af72c7-429d-4890-9471-6e24253994f4)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/ba51efca-c73a-421b-ba9f-ce75bde37e60" width="300" height="650" alt="tlp">
 
-![Screenshot_2024-01-17-13-21-31-711_app source getcontact](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/ba51efca-c73a-421b-ba9f-ce75bde37e60)
 
 ## 8. Fragment
 ```
@@ -123,4 +122,5 @@ code and design
 
 ### Output
 
-![Screenshot_2024-01-17-13-22-20-704_com example RajaUAS](https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/bfaf335b-d115-45e5-8b39-c4a391aff5c4)
+<img src="https://github.com/Rajahappyanto/Final_project_MobilePrograming-S3/assets/115520477/bfaf335b-d115-45e5-8b39-c4a391aff5c4" width="300" height="650" alt="Film">
+
